@@ -53,7 +53,7 @@ The main issue here is littered code. Working on simplifying it.
 
 ### Useful resources
 
-- [Bootstrap 5](https://www.getbootstrap.com) - This CSS framework is amazing. It virtuallydoesall the styling and grid work for you. Check it out!
+- [Bootstrap 5](https://www.getbootstrap.com) - This CSS framework is amazing. It virtually does all the styling and grid work for you. Check it out!
 - [W3Schools](https://www.w3schools.com) - This is an amazing article which helped me throughout with helpful CSS tips, best practices, and examples.
 
 ## Author
